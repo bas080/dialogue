@@ -1,0 +1,1 @@
+[package]\nname = "interactive_cli_tool"\nversion = "0.1.0"\nauthors = ["bas080"]\nedition = "2018"\n\n[dependencies]\nclap = "3.0"\n"serde = "1.0"\n"serde_json = "1.0"\n"tokio = { version = "1.0", features = ["full"] }\n
