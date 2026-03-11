@@ -1,0 +1,11 @@
+# This file tells git to ignore certain files and directories.
+
+# Built application files
+/target/
+
+# This is the default location for Rust output files
+/Cargo.lock
+/Cargo.toml
+
+# Ignore any local configuration files
+/.env
